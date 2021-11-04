@@ -1,0 +1,2 @@
+# SCANDI
+Landing page
